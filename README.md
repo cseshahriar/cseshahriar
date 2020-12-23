@@ -26,10 +26,15 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 ### Languages, Frameworks and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+
 [<img align="left" alt="Django" width="26px" src="[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
-[<img align="left" alt="Django Rest Framework" width="26px" src="[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+
+[<img align="left" alt="Django Rest Framework" width="26px" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+
 [<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]
+
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 <br />
 <br />
@@ -43,6 +48,9 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact)
 <br/>
+
+[cseshahriar]: https://github.com/cseshahriar
+[website]: https://github.com/cseshahriar
 [jobwebsite]: https://tiger-park.com/
 [website]: https://github.com/cseshahriar
 [twitter]: https://github.com/cseshahriar
