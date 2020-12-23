@@ -17,7 +17,6 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10721366/cseshhariar)](https://stackoverflow.com/users/10721366/cseshahriar)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.shahriar.hosen@gmail.com)](mailto:cse.shahriar.hosen@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/cseshahriar/)](https://github.com/cseshahriar/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801710835653&text=Shhariar)]
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/cseshahriar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar/)
@@ -37,6 +36,7 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
+<br/>
 
 :heart: Programming | :blue_heart: Traveling | :black_heart: Sports
 <br />
