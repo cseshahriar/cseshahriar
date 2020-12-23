@@ -1,5 +1,7 @@
 ### Hi there, I'm Md. Shahriar Hosen 👋
 
+I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL, Git, Linux. Currently working at [Tiger Park Ltd](https://tiger-park.com/)
+
 ## I'm a Brother, Student and Developer!!
 
 - 🔭 I'm currently working at [Tiger Park Ltd][jobwebsite]
@@ -19,25 +21,18 @@
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/cseshahriar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar/)
-I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL, Git, Linux. Currently working at [Tiger Park Ltd](https://tiger-park.com/)
 <br/>
 
 ### Languages, Frameworks and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/githubexplore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" alt="Vuejs" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-<br />
-<br />
-
----
 
 :heart: Programming | :blue_heart: Traveling | :black_heart: Sports
-
 <br />
-
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact)
 <br/>
