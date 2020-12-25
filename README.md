@@ -1,11 +1,11 @@
 ### Hi there, I'm Md. Shahriar Hosen 👋
 
-I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL, Git, Linux. Currently working at [Tiger Park Ltd](https://tiger-park.com/)
+I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL, Git, Linux
 
 ## I'm a Brother, Student and Developer!!
 
 - 🔭 I'm currently working at [Tiger Park Ltd][jobwebsite]
-- 🌱 I’m currently learning DRF and Vue.js 🤣
+- 🌱 I’m currently learning Python, DRF and Vue.js 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love learning programming and development tools!
@@ -13,13 +13,12 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/cseshahriar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/10721366/cseshhariar)](https://stackoverflow.com/users/10721366/cseshahriar)
+<a href="https://www.linkedin.com/in/cseshahriar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9227520/shahriar-hosen)](https://stackoverflow.com/users/9227520/shahriar-hosen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.shahriar.hosen@gmail.com)](mailto:cse.shahriar.hosen@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/cseshahriar/)](https://github.com/cseshahriar/)
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/cseshahriar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar/)
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar)
 <br/>
 
 ### Languages, Frameworks and Tools:
