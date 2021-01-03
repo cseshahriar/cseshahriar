@@ -9,7 +9,7 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love learning programming and development tools!
-- ⚡ Sports lover: I love sports and cricket/football!
+- ⚡ Sports lover: I love sports(cricket/football, motogp)
 
 ### Connect with me:
 
