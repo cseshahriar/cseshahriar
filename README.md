@@ -41,7 +41,7 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 <br />
 
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sajib1066&layout=compact)
 <br/>
 
 [cseshahriar]: https://github.com/cseshahriar
