@@ -44,6 +44,14 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
   </tr>
   
    <tr>
+     <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/html.png">
+      <br>HTML
+    </td>
+     <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/css.png">
+      <br>CSS
+    </td>
     <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
