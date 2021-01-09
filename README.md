@@ -4,12 +4,13 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
 
 ## I'm a Brother, Student and Developer!!
 
-- 🔭 I'm currently working at [Tiger Park Ltd][jobwebsite]
-- 🌱 I’m currently learning Python, DRF and Vue.js 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute Open Source projects
-- ⚡ Fun fact: I love learning programming and development tools!
-- ⚡ Sports lover: I love sports(cricket/football, motogp)
+- <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I'm currently working at [Tiger Park Ltd][jobwebsite]
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> I’m looking to collaborate with other content creators
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> 2021 Goals: Contribute Open Source projects
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love learning programming and development tools!
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Cricket/Football, MotoGp)
+
 
 ### Connect with me:
 
