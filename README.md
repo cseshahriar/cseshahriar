@@ -57,8 +57,8 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
       <br>MySQL
     </td>
     <td align="center">
-      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-      <br>Debian
+      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>Linux
     </td>
     <td align="center">
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
