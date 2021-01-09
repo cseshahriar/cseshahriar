@@ -34,6 +34,17 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
       <br>Django
     </td>
     <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
+  </tr>
+  
+   <tr>
+    <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
@@ -48,14 +59,6 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
   </tr>
   
   <tr>
-    <td align="center">
-      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySQL
-    </td>
     <td align="center">
       <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>Linux
