@@ -74,7 +74,7 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
   <tr>
     <td align="center">
       <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <br>Linux
+      <br>Git
     </td>
     <td align="center">
       <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
