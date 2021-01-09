@@ -34,6 +34,10 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
       <br>Django
     </td>
     <td align="center">
+      <img alt="postgresql" height=64px src="https://www.django-rest-framework.org/img/logo.png">
+      <br>Django REST framework
+    </td>
+    <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
@@ -53,10 +57,6 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
       <br>CSS
     </td>
     <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <br>Bootstrap
-    </td>
-    <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
@@ -64,9 +64,17 @@ I'm a Jr. Software Engineer, I have proficiency in Python, Django, Rest API, SQL
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
   </tr>
   
   <tr>
+    <td align="center">
+      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>Linux
+    </td>
     <td align="center">
       <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>Linux
