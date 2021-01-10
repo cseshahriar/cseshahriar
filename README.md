@@ -22,7 +22,7 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar)
 <br/>
 
-### Skills(Languages, Frameworks, and Other Tools):
+### Skills(Languages, Frameworks and Tools):
 
 <table>
   <tr>
