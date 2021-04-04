@@ -17,7 +17,6 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 <a href="https://www.linkedin.com/in/cseshahriar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9227520/shahriar-hosen)](https://stackoverflow.com/users/9227520/shahriar-hosen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.shahriar.hosen@gmail.com)](mailto:cse.shahriar.hosen@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/cseshahriar/)](https://github.com/cseshahriar/)
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar)
 <br/>
