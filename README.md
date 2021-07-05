@@ -2,7 +2,7 @@
 
 I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Developer</a> with more than 1 year of related industry experience. I have proficiency in Python, Django, Django REST framework, SQL, Git, Linux. Also currently I'm a student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>. Diploma compleated from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://www.simt.edu.bd/">Saic Institute of Management and Technology</a> with <a href="https://www.simt.edu.bd/course/computer-technology/">Diplom in Computer Technology</a> 4 year's course on 10th march 2018.
 
-## I'm a Brother, Student and Developer!!
+## I'm a Student and Backend Developer!
 
 - <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I'm currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF
@@ -18,7 +18,6 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9227520/shahriar-hosen)](https://stackoverflow.com/users/9227520/shahriar-hosen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.shahriar.hosen@gmail.com)](mailto:cse.shahriar.hosen@gmail.com)
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/cseshahriar/)](https://twitter.com/cseshahriar)
 <br/>
 
 ### Skills(Languages, Frameworks and Tools):
@@ -49,11 +48,11 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
   
    <tr>
      <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="html" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <br>HTML
     </td>
      <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="css" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <br>CSS
     </td>
     <td align="center">
@@ -72,11 +71,11 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
   
   <tr>
     <td align="center">
-      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br>Git
     </td>
     <td align="center">
-      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <img alt="linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>Linux
     </td>
     <td align="center">
@@ -97,10 +96,8 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 <br/>
 
 [cseshahriar]: https://github.com/cseshahriar
-[website]: https://github.com/cseshahriar
 [jobwebsite]: https://tiger-park.com/
 [website]: https://github.com/cseshahriar
-[twitter]: https://github.com/cseshahriar
-[youtube]: https://github.com/cseshahriar
+[youtube]: https://www.youtube.com/channel/UCPBtm-c6g5vLKqFJGOGc6NQ/
 [instagram]: https://github.com/cseshahriar
 [linkedin]: https://github.com/cseshahriar
