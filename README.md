@@ -97,7 +97,7 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
 
-[![Shahriar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
+<figure><embed src="https://wakatime.com/share/@cseshahriar/350e191e-a16e-4723-bf14-b14ca5cc5f93.svg"></embed></figure>
 
 <br/>
 
