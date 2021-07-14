@@ -97,7 +97,31 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
 
-<a href="https://wakatime.com"><img style="width:100%;height:400px" src="https://wakatime.com/share/@cseshahriar/0c53c5d1-78e1-4c45-b879-95dc8c3b6ad5.png" /></a>
+## wakatime Stats
+<table>
+    <tr>
+       <td align="center">
+        <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cseshahriar/d17cb839-43f1-4eb2-a0cb-d28bb6c786ec.png" /></a>
+         <br>
+         Last 7 days
+       </td>
+      <td align="center">
+         <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cseshahriar/1d2ea297-84db-4f94-98de-f544ea2ea3c6.png" /></a>
+        <br>
+        Last Month
+      </td>
+      <td align="center">
+          <a href="https://wakatime.com"><img  src="https://wakatime.com/share/@cseshahriar/5531a1ee-307b-407f-9090-b389f38f93ba.png"/></a>
+        <br>
+        Last Year
+      </td>
+      <td align="center">
+          <a href="https://wakatime.com"><img src="https://wakatime.com/share/@cseshahriar/0c53c5d1-78e1-4c45-b879-95dc8c3b6ad5.png"/></a>
+        <br>
+        All Time
+      </td>
+    </tr>
+  </table>
 <br/>
 
 [cseshahriar]: https://github.com/cseshahriar
