@@ -2,22 +2,24 @@
 
 I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Developer</a> with more than 1 year of related industry experience. I have proficiency in Python, Django, Django REST framework, SQL, Git, Linux. Also currently I'm a student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>. Diploma completed from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://www.simt.edu.bd/">Saic Institute of Management and Technology</a> with <a href="https://www.simt.edu.bd/course/computer-technology/">Diplom in Computer Technology</a> 4 year's course on 10th March 2018.
 
-## I'm a Student and Backend Developer!
+## I'm a C.S.E Student and Python Backend Developer 👋
 
 - <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I'm currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF, JavaScript
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> I’m looking to collaborate with other content creators
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> 2021 Goals: Contribute Open Source projects
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love learning programming and development tools!
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Cricket/Football, MotoGp)
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, MotoGp)
 
 
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/cseshahriar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/9227520/shahriar-hosen)](https://stackoverflow.com/users/9227520/shahriar-hosen)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cse.shahriar.hosen@gmail.com)](mailto:cse.shahriar.hosen@gmail.com)
 <a href="https://www.facebook.com/cse.shahriar.hosen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<br>
+@Skype: cse.shahriar.hosen<br>
+@WhatsApp: +8801710835653
 <br/>
 
 ### Skills(Languages, Frameworks and Tools):
@@ -91,12 +93,11 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 :heart: Programming | :blue_heart: Traveling | :black_heart: Sports
 <br />
 
-![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true)
+![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@cseshahriar)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
 <br/>
 
 [cseshahriar]: https://github.com/cseshahriar
