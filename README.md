@@ -8,7 +8,7 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF, JavaScript
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> 2021 Goals: Contribute Open Source projects
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love learning programming
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, MotoGp, Card Game 29)
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, MotoGp)
 
 
 ### Connect with me:
