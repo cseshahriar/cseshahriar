@@ -86,18 +86,16 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
   </tr>
 </table>
 
-<br />
+<br/>
 <br/>
 
 :heart: Programming | :blue_heart: Traveling | :black_heart: Sports
-<br />
+<br/>
 
-![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true) 
+<img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&count_private=true" alt="cseshahriar"/>
+
+![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact)
-
-
-<img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar" alt="cseshahriar" />
-
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cseshahriar)  
 
