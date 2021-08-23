@@ -93,9 +93,13 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 <br />
 
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar)](https://github.com/cseshahriar/github-readme-stats)
-<br/>
+
+<img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar" alt="cseshahriar" />
+
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cseshahriar)  
 
 [cseshahriar]: https://github.com/cseshahriar
 [jobwebsite]: https://tiger-park.com/
