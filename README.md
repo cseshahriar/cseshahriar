@@ -1,11 +1,11 @@
-### Hi there, I'm MD Shahriar Hosen 👋
+### Hi there, I am MD Shahriar Hosen 👋
 
-I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Developer</a> with more than 1 and 1/2 years of related industry experience. I have proficiency in Python, Django, Django REST Framework, SQL, Git, Linux. Also currently I'm a student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>. Diploma completed from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://www.simt.edu.bd/">Saic Institute of Management and Technology</a> with <a href="https://www.simt.edu.bd/course/computer-technology/">Diplom in Computer Technology</a> 4 year's course on 10th March 2018.
+I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Developer</a> with more than 1 and 1/2 years of related industry experience. I have proficiency in Python, Django, Django REST Framework, SQL, Git, Linux. Also currently I'm a student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>. Diploma completed from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://www.simt.edu.bd/">Saic Institute of Management and Technology</a> with <a href="https://www.simt.edu.bd/course/computer-technology/">Diplom in Computer Technology</a> 4 year's course on 10th March 2018.
 
-## I'm a C.S.E Student and Python Backend Developer 👋
+## I am a C.S.E Student and Python Backend Developer 👋
 
-- <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I'm currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m currently learning Python, DRF, JavaScript
+- <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning Python, DRF, JavaScript
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> 2021 Goals: Contribute Open Source projects
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love to learning programming
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, MotoGp)
@@ -21,7 +21,7 @@ I'm a <a href="https://www.google.com/search?q=Backend+developer">Backend Develo
 @WhatsApp: +8801710835653
 <br/>
 
-### Skills(Languages, Frameworks and Tools):
+### Skills(Languages, Frameworks, Libraries and Tools):
 
 <table>
   <tr>
