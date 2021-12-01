@@ -5,8 +5,8 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
 ## I am a C.S.E Student and Python Backend Developer 👋
 
 - <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning Python, Django, Deployment
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/211189/help.svg"/> 2021 Goals: Contribute Open Source projects
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning JavaScript, Vue.js
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m creating videos for my <a href="https://www.youtube.com/channel/UCPBtm-c6g5vLKqFJGOGc6NQ/featured">Youtube Channel</a>
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love to learning programming
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, MotoGp)
 
@@ -57,6 +57,10 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
       <br>CSS
     </td>
     <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
     </td>
@@ -64,13 +68,13 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
-    <td align="center">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <br>Bootstrap
-    </td>
   </tr>
   
   <tr>
+     <td align="center">
+      <img alt="git" height=64px src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png">
+      <br>Ubuntu
+    </td>
     <td align="center">
       <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br>Git
@@ -83,6 +87,10 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
     </td>
+    <td align="center">
+      <img alt="vscode" height=64px src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
+      <br>VS Code
+    </td>
   </tr>
 </table>
 
@@ -92,12 +100,15 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
 :heart: Programming | :blue_heart: Traveling | :black_heart: Sports
 <br/>
 
-<img style="width: 100%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&count_private=true" alt="cseshahriar"/>
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&count_private=true" alt="cseshahriar"/>
+
 
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&hide=php,java,javascript,css&langs_count=20)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cseshahriar)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&hide=php,java,javascript,css&langs_count=20)
+
+<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 
 [cseshahriar]: https://github.com/cseshahriar
 [jobwebsite]: https://tiger-park.com/
