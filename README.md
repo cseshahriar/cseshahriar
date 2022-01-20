@@ -104,8 +104,7 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
 
 
 ![Shahriar's github stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=cseshahriar)  
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&hide=php,java,javascript,css&langs_count=20)
 
 <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
