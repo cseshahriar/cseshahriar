@@ -1,14 +1,14 @@
-### Hi there, I am MD Shahriar Hosen 👋
+### Hi there, I am Md. Shahriar Hosen 👋
 
 I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Developer</a> with more than 1 and 1/2 years of related industry experience. I have proficiency in Python, Django, Django REST Framework, SQL, Git, Linux. Also currently I'm a student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>. Diploma completed from <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://www.simt.edu.bd/">Saic Institute of Management and Technology</a> with <a href="https://www.simt.edu.bd/course/computer-technology/">Diplom in Computer Technology</a> 4 year's course on 10th March 2018.
 
 ## I am a C.S.E Student and Python Backend Developer 👋
 
 - <img alt="briefcase" height=16px src="https://www.svgrepo.com/show/29670/briefcase.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning JavaScript, Vue.js
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning DevOps
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m creating videos for my <a href="https://www.youtube.com/channel/UCPBtm-c6g5vLKqFJGOGc6NQ/featured">Youtube Channel</a>
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love to learning programming
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, MotoGp)
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love learning
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, etc)
 
 
 ### Connect with me:
