@@ -6,7 +6,7 @@ I am a <a href="https://www.google.com/search?q=Backend+developer">Backend Devel
 
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently studing B.SC in CSE
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning JavaScript(React)
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning JavaScript & Reactjs
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I’m creating videos for my <a href="https://www.youtube.com/channel/UCPBtm-c6g5vLKqFJGOGc6NQ/featured">Youtube Channel</a>
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact: I love learning
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports(Football, Badminton, etc)
