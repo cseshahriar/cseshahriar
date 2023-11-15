@@ -12,23 +12,84 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports
 
 ## Frontend Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
-<!-- ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) --> 
-<!-- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) -->
+<!-- icons https://github.com/devicons/devicon/tree/master/icons/ -->
+<table>
+  <tr>
+      <td align="center">
+           <img alt="html5" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+           <br>HTML
+       </td>
+       <td align="center">
+          <img alt="css3" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+          <br>CSS
+      </td>
+     <td align="center">
+          <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+          <br>Bootstrap
+      </td>
+      <td align="center">
+          <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+          <br>JavaScript
+      </td>
+      <td align="center">
+        <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        <br>React
+      </td>
+       <td align="center">
+        <img alt="redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+        <br>Redux
+      </td>
+  </tr>
+</table>
 
 ## Backend Skills:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-<!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) -->
-<!-- ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) -->
-
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
+    </td>
+     <td align="center">
+      <img alt="Django REST framework" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django REST Framework
+    </td>
+    <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+     <td align="center">
+          <img alt="Mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>Mysql
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>git
+    </td>
+     <td align="center">
+      <img alt="linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>linux
+    </td>
+    <td align="center">
+      <img alt="VsCode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <br>VsCode
+    </td>
+     <td align="center">
+      <img alt="Pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>Pycharm
+    </td>
+  </tr>
+</table>
 
 ## Serverside Skills:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
 
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
