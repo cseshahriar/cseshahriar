@@ -56,7 +56,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <br>Django
     </td>
      <td align="center">
-      <img alt="Django REST framework" height=64px src="https://www.django-rest-framework.org/img/logo.png">
+      <img alt="Django REST framework" height=64px src="https://drive.google.com/file/d/1jSeHOVrFdTZkmziMceRXXssONQTL51M9/view?usp=sharing">
       <br>Django REST Framework
     </td>
     <td align="center">
