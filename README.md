@@ -65,7 +65,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
     </td>
      <td align="center">
           <img alt="MySql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>Mysql
+      <br>MySql
     </td>
    <!-- 
     <td align="center">
