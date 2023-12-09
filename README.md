@@ -64,7 +64,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <br>PostgreSQL
     </td>
      <td align="center">
-          <img alt="Mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+          <img alt="MySql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>Mysql
     </td>
   </tr>
