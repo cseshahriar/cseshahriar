@@ -68,16 +68,6 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <br>Mysql
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-      <br>git
-    </td>
-     <td align="center">
-      <img alt="linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>linux
-    </td>
-  </tr>
 </table>
 
 ## Technologies Skills:
@@ -87,13 +77,13 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
       <br>AWS
     </td>
-    <td align="center">
-      <img alt="Linux" height=64px src="https://cdn.worldvectorlogo.com/logos/linux.svg">
-      <br>Django
+     <td align="center">
+      <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <br>git
     </td>
      <td align="center">
-      <img alt="git" height=64px src="https://cdn.worldvectorlogo.com/logos/git.svg">
-      <br>Git
+      <img alt="linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>linux
     </td>
      <td align="center">
           <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
