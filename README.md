@@ -52,21 +52,27 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <br>Python
     </td>
     <td align="center">
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="Django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
      <td align="center">
-      <img alt="Django REST framework" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <img alt="Django REST framework" height=64px src="https://www.django-rest-framework.org/img/logo.png">
       <br>Django REST Framework
     </td>
     <td align="center">
-      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <img alt="PostgreSQL" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
      <td align="center">
           <img alt="MySql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>Mysql
     </td>
+   <!-- 
+    <td align="center">
+          <img alt="Fast API" height=64px src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
+      <br>Fast API
+    </td>
+    -->
   </tr>
 </table>
 
@@ -85,10 +91,15 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
       <img alt="linux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>linux
     </td>
-     <td align="center">
+    <td align="center">
           <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <br>VS Code
     </td>
+     <td align="center">
+          <img alt="pycharm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>
+   
   </tr>
 </table>
 
