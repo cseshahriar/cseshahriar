@@ -80,9 +80,27 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
   </tr>
 </table>
 
-## Serverside Skills:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+## Technologies Skills:
+<table>
+  <tr>
+    <td align="center">
+      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="Linux" height=64px src="https://cdn.worldvectorlogo.com/logos/linux.svg">
+      <br>Django
+    </td>
+     <td align="center">
+      <img alt="git" height=64px src="https://cdn.worldvectorlogo.com/logos/git.svg">
+      <br>Git
+    </td>
+     <td align="center">
+          <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <br>VS Code
+    </td>
+  </tr>
+</table>
 
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
