@@ -37,10 +37,12 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
         <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <br>React
       </td>
+    <!--
        <td align="center">
         <img alt="redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
         <br>Redux
       </td>
+    -->
   </tr>
 </table>
 
