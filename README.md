@@ -76,7 +76,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
   </tr>
 </table>
 
-## Technologies Skills:
+## Tools Skills:
 <table>
   <tr>
     <td align="center">
