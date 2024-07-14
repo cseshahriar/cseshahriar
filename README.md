@@ -15,7 +15,6 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 <!-- icons https://github.com/devicons/devicon/tree/master/icons/ -->
 <table>
   <tr>
-    <!-- 
       <td align="center">
            <img alt="html5" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
            <br>HTML
@@ -28,7 +27,6 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
           <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
           <br>Bootstrap
       </td>
-    -->
       <td align="center">
           <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
           <br>JavaScript
