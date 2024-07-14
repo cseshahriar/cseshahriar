@@ -80,7 +80,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 <table>
   <tr>
     <td align="center">
-      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
       <br>AWS
     </td>
      <td align="center">
@@ -122,6 +122,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 ## 🌐 Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/cseshahriar)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cse_shahriar)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/user3639Lh/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCPBtm-c6g5vLKqFJGOGc6NQ) 
 
