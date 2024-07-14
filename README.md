@@ -117,7 +117,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 ---
 [![](https://visitcount.itsvg.in/api?id=cseshahriar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skills level.
 
 ## 🌐 Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/cseshahriar)
