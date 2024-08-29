@@ -76,7 +76,7 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
   </tr>
 </table>
 
-## Tools Skills:
+## Tool and Technology Skills:
 <table>
   <tr>
     <td align="center">
@@ -98,6 +98,10 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
      <td align="center">
           <img alt="pycharm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
       <br>PyCharm
+    </td>
+     <td align="center">
+          <img alt="pycharm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+      <br>Docker
     </td>
    
   </tr>
