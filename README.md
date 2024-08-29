@@ -6,8 +6,9 @@ I'm a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack 
 
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently studing B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently practicing DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning JavaScript & React
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently Learning DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently Learning Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on The Complete React Course <a href="https://virtual.pondit.com/course/index.php?categoryid=23" target="_blank">Pondit</a> Batch4
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact's: I love learning
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports
 
