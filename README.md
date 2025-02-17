@@ -2,7 +2,7 @@
 
 I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Developer</a> with more than 4 years of related industry experience. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, Git, Linux, AWS. Also currently I'm a final year student of <a href="https://www.google.com/search?q=Computer+Science+Engineering">the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
 
-## I'm a Full Stack Web Developer 👋
+## I am a Full Stack Web Developer 👋
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently studing at B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
