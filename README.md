@@ -4,7 +4,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
 
 ## I am a Full Stack Web Developer 👋
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently studing at B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed studing at B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning on Frontend Excellence with Tailwind CSS, React & Next.Js <a href="https://ostad.app/course/react-nextjs-tailwind" target="_blank">Ostad</a> Batch4
