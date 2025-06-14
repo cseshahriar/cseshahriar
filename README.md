@@ -74,7 +74,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
       <br>MySQL
     </td>
     <td align="center">
-        <img alt="celery" height=64px src="https://www.svgrepo.com/show/447056/celery.svg](https://docs.celeryq.dev/en/latest/_static/celery_512.png">
+        <img alt="celery" height=64px src="https://docs.celeryq.dev/en/latest/_static/celery_512.png">
         <br>Celery
     </td>
   <td align="center" valign="top">
