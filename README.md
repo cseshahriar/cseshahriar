@@ -117,7 +117,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
     </td>
     <td align="center" valign="top">
       <img alt="CentOS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="CentOS Deployment">
-      <br><strong>Django App Deployment on VPS Server</strong>
+      <br><strong>Deployment on VPS</strong>
     </td>
   </tr>
 </table>
