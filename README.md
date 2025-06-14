@@ -8,8 +8,8 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning on Frontend Excellence with Tailwind CSS, React & Next.Js <a href="https://ostad.app/course/react-nextjs-tailwind" target="_blank">Ostad</a> Batch4
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/5335/crowd-funding.svg"/> Fun fact's: I love learning
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/11193/sports-balls.svg"/> Sports lover: I love sports
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Fun fact's: I love learning
+-  <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Sports lover: I love sports
 
 ## Frontend Skills:
 <!-- icons https://github.com/devicons/devicon/tree/master/icons/ -->
@@ -28,6 +28,10 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
           <br>Bootstrap
       </td>
       <td align="center">
+          <img alt="tailwindcss" height=64px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+          <br>TailwindCSS
+      </td>
+      <td align="center">
           <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
           <br>JavaScript
       </td>
@@ -35,17 +39,19 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
         <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
         <br>React
       </td>
-    <!--
-       <td align="center">
-        <img alt="redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-        <br>Redux
-      </td>
-    -->
+    <td align="center" >
+        <img alt="nextjs" height=64px src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+        <br>Next.js
+    </td>
+     <td align="center">
+      <img alt="redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+      <br>Redux
+    </td>
   </tr>
 </table>
 
 ## Backend Skills:
-<table>
+<table style="background:#fff !important;">
   <tr>
     <td align="center">
       <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -67,12 +73,22 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
           <img alt="MySql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySql
     </td>
-   <!-- 
     <td align="center">
+        <img alt="celery" height=64px src="https://www.svgrepo.com/show/447056/celery.svg">
+        <br>Celery
+    </td>
+  <td align="center" valign="top">
+    <img alt="Cron Job" height="64" src="https://cdn-icons-png.flaticon.com/512/3193/3193015.png" title="Cron Job">
+    <br><strong>Cron Job</strong>
+  </td>
+  <td align="center" valign="top">
+    <img alt="API Integration" height="64" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" title="API Integration">
+    <br><strong>API Integration</strong>
+  </td>
+    <!-- <td align="center">
           <img alt="Fast API" height=64px src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
       <br>Fast API
-    </td>
-    -->
+    </td> -->
   </tr>
 </table>
 
