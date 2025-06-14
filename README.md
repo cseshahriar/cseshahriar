@@ -71,7 +71,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
     </td>
      <td align="center">
           <img alt="MySql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-      <br>MySql
+      <br>MySQL
     </td>
     <td align="center">
         <img alt="celery" height=64px src="https://www.svgrepo.com/show/447056/celery.svg">
