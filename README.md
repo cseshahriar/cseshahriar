@@ -95,10 +95,6 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
 ## Tool and Technology Skills:
 <table>
   <tr>
-    <td align="center">
-      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-      <br>AWS
-    </td>
      <td align="center">
       <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br>git
@@ -116,10 +112,13 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
       <br>PyCharm
     </td>
      <td align="center">
-          <img alt="pycharm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
-      <br>Docker
+      <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+      <br>AWS
     </td>
-   
+    <td align="center" valign="top">
+      <img alt="CentOS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="CentOS Deployment">
+      <br><strong>Django App Deployment on VPS Server</strong>
+    </td>
   </tr>
 </table>
 
