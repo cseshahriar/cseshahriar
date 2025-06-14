@@ -92,7 +92,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
   </tr>
 </table>
 
-## Tool and Technology Skills:
+## Others Skills:
 <table>
   <tr>
      <td align="center">
@@ -106,10 +106,6 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
     <td align="center">
           <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
       <br>VS Code
-    </td>
-     <td align="center">
-          <img alt="pycharm" height=64px src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
     </td>
      <td align="center">
       <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
