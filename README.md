@@ -1,13 +1,13 @@
 ### Hi there, I am Md Shahriar Hosen 👋
 
-I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Developer</a> with more than 4 years of related industry experience. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, Git, Linux, AWS. I'm completed B.S.C in <a href="https://www.google.com/search?q=Computer+Science+Engineering"> the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
+I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Developer</a> with over 3 years of experience in the related industry. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, Git, Linux, and AWS. I'm completed B.S.C in <a href="https://www.google.com/search?q=Computer+Science+Engineering"> the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
 
 ## I am a Full Stack Web Developer 👋
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed studing at B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning on Frontend Excellence with Tailwind CSS, React & Next.Js <a href="https://ostad.app/course/react-nextjs-tailwind" target="_blank">Ostad</a> Batch4
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed training on Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
+- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently learning on Frontend Excellence with Tailwind CSS, React & Next.js <a href="https://ostad.app/course/react-nextjs-tailwind" target="_blank">Ostad</a> Batch4
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Fun fact's: I love learning
 -  <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Sports lover: I love sports
 
