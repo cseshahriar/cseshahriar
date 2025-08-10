@@ -27,10 +27,11 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
           <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
           <br>Bootstrap
       </td>
+    <!--
       <td align="center">
           <img alt="tailwindcss" height=64px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
           <br>TailwindCSS
-      </td>
+      </td> -->
       <td align="center">
           <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
           <br>JavaScript
