@@ -1,6 +1,6 @@
 ### Hi there, I am Md Shahriar Hosen 👋
 
-I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Developer</a> with over 3 years of experience in the related industry. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, Git, Linux, and AWS. I'm completed B.S.C in <a href="https://www.google.com/search?q=Computer+Science+Engineering"> the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
+I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Developer</a> with over 4 years of experience in the related industry. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, Git, Linux, and AWS. I'm completed B.S.C in <a href="https://www.google.com/search?q=Computer+Science+Engineering"> the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
 
 ## I am a Full Stack Web Developer 👋
 - <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
