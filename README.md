@@ -117,6 +117,10 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
       <img alt="CentOS" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" title="CentOS Deployment">
       <br><strong>Deployment on VPS</strong>
     </td>
+    <td align="center" valign="top">
+      <img alt="GitHub Actions" height="64" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions CI/CD">
+      <br><strong>CI/CD Pipeline</strong>
+    </td>
   </tr>
 </table>
 
