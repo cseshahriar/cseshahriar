@@ -1,18 +1,42 @@
-### Hi there, I am Md Shahriar Hosen 👋
+### 👋 Hi, I'm Md Shahriar Hosen
 
-I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack Web Developer</a> with over 5 years of experience in the related industry. I have proficiency in Python, Django, Django REST Framework, PostgreSQL, MySQL, API Integration, Git, Linux, Docker, AWS & CICD with Github Actions. I'm completed B.S.C in <a href="https://www.google.com/search?q=Computer+Science+Engineering"> the Computer Science Engineering</a> program at <img alt="au-flag" height=16px src="https://www.svgrepo.com/show/56332/bangladesh.svg"/> <a href="https://manarat.ac.bd/academics/academic-syllabus/cse/">Manarat International University</a>.
+Senior Python & Django Developer | DRF API Expert | AWS & Linux Deployment | CI/CD with GitHub Actions
+I am a Full-Stack Web Developer with over 5 years of professional experience in building, deploying, and maintaining production-ready web applications. I specialize in backend-heavy systems with Django and DRF, while also having solid frontend experience.
 
-## I am a Full Stack Web Developer 👋
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am currently working at [Tiger Park Ltd][jobwebsite] as a Software Engineer
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed studing at B.SC in CSE at <a href="https://manarat.ac.bd/">Manarat International University</a>
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed trainning on DSA & Problem Solving <a href="https://phitron.io/" target="_blank">Phitron</a> Batch5
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed training on Full Stack Web Development with Python, Django & React <a href="http://ostad.app/course/web-development-with-python-django" target="_blank">Ostad</a> Batch2
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> I am completed training on Frontend Excellence with Tailwind CSS, React & Next.js <a href="https://ostad.app/course/react-nextjs-tailwind" target="_blank">Ostad</a> Batch4
-- <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Fun fact's: I love learning
--  <img alt="books" height=16px src="https://www.svgrepo.com/show/230297/books-book.svg"/> Sports lover: I love sports
+## 💼 Professional Summary
+Senior Python & Django Developer with strong expertise in building secure, scalable, and production-grade backend applications. Experienced in designing and developing RESTful APIs using Django Rest Framework (DRF), implementing authentication, authorization, and role-based access control. Proficient in database design and optimization using PostgreSQL and MySQL, integrating third-party APIs, and managing source code with Git. Hands-on experience deploying applications on Linux servers using Nginx, uWSGI, and Gunicorn, as well as managing cloud infrastructure on AWS. Skilled in setting up CI/CD pipelines using GitHub Actions to automate testing, build, and deployment workflows. Strong problem solver with proven ability to debug production issues, optimize performance, and maintain clean, scalable, and maintainable codebases.
 
+⚡ Open to Backend / Django / API Developer roles (Remote / Onsite / Contract)
+
+ ## What I Do
+- Build secure & scalable Django backend applications
+- Design and develop REST APIs using Django Rest Framework (DRF)
+- Implement authentication, authorization & role-based access control
+- Optimize database performance (PostgreSQL & MySQL)
+- Integrate third-party services and APIs
+- Deploy applications on Linux servers using Nginx, uWSGI & Gunicorn
+- Configure CI/CD pipelines with GitHub Actions
+- Debug and resolve production-level issues
+
+## 💼 Experience
+- 5+ years of professional experience in backend & full-stack development
+- Worked on real-world production systems
+- Strong focus on clean code, scalability & maintainability
+- Experience handling live system debugging & performance optimization
+
+## 🎓 Education & Training
+- B.Sc. in Computer Science & Engineering (CSE) Manarat International University, Bangladesh 🇧🇩
+- DSA & Problem Solving Training – Phitron (Batch 5)
+- Full Stack Web Development (Python, Django & React) – Ostad (Batch 2)
+- Frontend Excellence (React & Tailwind CSS) – Ostad (Batch 4)
+
+## 🧠 Skills Overview
+- Frontend; HTML • CSS • Bootstrap • JavaScript • React(Basic) • Next.js(Basic)
+- Backend: Python • Django • DRF • PostgreSQL • MySQL • Celery • Cron Jobs • API Integration
+- Others: Git • Linux • AWS • Docker • GitHub Actions (CI/CD)
+
+<!--
 ## Frontend Skills:
-<!-- icons https://github.com/devicons/devicon/tree/master/icons/ -->
 <table>
   <tr>
       <td align="center">
@@ -27,27 +51,17 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
           <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
           <br>Bootstrap
       </td>
-    <!--
-      <td align="center">
-          <img alt="tailwindcss" height=64px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-          <br>TailwindCSS
-      </td> -->
       <td align="center">
           <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
           <br>JavaScript
       </td>
       <td align="center">
         <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-        <br>React
+        <br>React (Basic)
       </td>
-    <!--
-    <td align="center">
-      <img alt="redux" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-      <br>Redux
-    </td> -->
     <td align="center" >
         <img alt="nextjs" height=64px src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
-        <br>Next.js
+        <br>Next.js (Basic)
     </td>
   </tr>
 </table>
@@ -87,16 +101,18 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
     <img alt="API Integration" height="64" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png" title="API Integration">
     <br><strong>API Integration</strong>
   </td>
-    <!-- <td align="center">
+    <td align="center">
           <img alt="Fast API" height=64px src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
       <br>Fast API
-    </td> -->
+    </td>
   </tr>
 </table>
-
 ## Others Skills:
 <table>
   <tr>
+      <td align="center">
+          <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+      <br>VS Code
      <td align="center">
       <img alt="git" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
       <br>git
@@ -106,11 +122,11 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
       <br>linux
     </td>
     <td align="center">
-          <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-      <br>VS Code
-    </td>
-     <td align="center">
       <img alt="aws" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="docker" height=64px src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/docker-plain-wordmark.svg">
       <br>AWS
     </td>
     <td align="center" valign="top">
@@ -123,6 +139,7 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
     </td>
   </tr>
 </table>
+-->
 
 <!-- ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
 <!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
@@ -130,26 +147,26 @@ I am a <a href="https://www.google.com/search?q=Full+Stack+developer">Full Stack
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) --> 
 <!-- [Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&&hide=php)
+## 📊 GitHub Stats
 
----
-[![](https://visitcount.itsvg.in/api?id=cseshahriar&icon=0&color=0)](https://visitcount.itsvg.in)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=tokyonight&include_all_commits=true)
 
-<b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skills level.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact&theme=tokyonight&hide=php)
+
+**Note:** Language statistics reflect public repositories only and do not represent the overall experience.
+
 
 ## 🌐 Profiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/cseshahriar)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cse_shahriar)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/user3639Lh/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
+[![Resume](https://img.shields.io/badge/Resume_PDF-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10irAJbudZMd_Zq8BS8ipSnOSSO-NFrld/view?usp=sharing)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCPBtm-c6g5vLKqFJGOGc6NQ)
-[![Resume](https://img.shields.io/badge/Resume_PDF-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/17zlvdDLvdmgQ3GY3R6jHizCnVOUj8auf/view?usp=drive_link)
 
 [cseshahriar]: https://github.com/cseshahriar
-[jobwebsite]: https://tiger-park.com/
 [website]: https://github.com/cseshahriar
 [youtube]: https://www.youtube.com/channel/UCPBtm-c6g5vLKqFJGOGc6NQ/
 [instagram]: https://github.com/cseshahriar
