@@ -149,14 +149,13 @@ Senior Python & Django Developer with strong expertise in building secure, scala
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&theme=tokyonight&include_all_commits=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact&theme=tokyonight&hide=php)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&theme=tokyonight&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact&theme=tokyonight&langs_count=8&hide=php)
 
 **Note:** Language statistics reflect public repositories only and do not represent the overall experience.
-
 
 ## 🌐 Profiles
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
