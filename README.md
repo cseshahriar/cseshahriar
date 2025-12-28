@@ -19,10 +19,18 @@ Senior Python & Django Developer with strong expertise in building secure, scala
 - Debug and resolve production-level issues
 
 ## 💼 Experience
-- 5+ years of professional experience in backend & full-stack development
-- Worked on real-world production systems
-- Strong focus on clean code, scalability & maintainability
-- Experience handling live system debugging & performance optimization
+Software Engineer  
+Tiger Park Ltd  
+March 2019 – Present (5 Years 10 Months)  
+
+- 5+ years of professional experience in backend and full-stack web development
+- Built, deployed, and maintained real-world production systems using Python, Django, and Django REST Framework (DRF)
+- Designed and implemented secure, scalable REST APIs with authentication, authorization, and role-based access control
+- Worked extensively on database design and optimization using PostgreSQL and MySQL
+- Deployed applications on Linux servers using Nginx, uWSGI, and Gunicorn, ensuring high availability and performance
+- Implemented CI/CD pipelines using GitHub Actions to automate build, testing, and deployment
+- Debugged and resolved live production issues, improved system performance, and ensured application stability
+- Maintained clean, scalable, and maintainable codebases following best practices
 
 ## 🎓 Education & Training
 - B.Sc. in Computer Science & Engineering (CSE) Manarat International University, Bangladesh 🇧🇩
@@ -147,23 +155,16 @@ Senior Python & Django Developer with strong expertise in building secure, scala
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) --> 
 <!-- [Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) -->
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cseshahriar&theme=tokyonight)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cseshahriar&show_icons=true&theme=tokyonight&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cseshahriar&layout=compact&theme=tokyonight&langs_count=8&hide=php)
-
 **Note:** Language statistics reflect public repositories only and do not represent the overall experience.
 
 ## 🌐 Profiles
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cseshahriar)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/cseshahriar)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cse_shahriar)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/user3639Lh/)
-[![Resume](https://img.shields.io/badge/Resume_PDF-4285F4?style=flat&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/10irAJbudZMd_Zq8BS8ipSnOSSO-NFrld/view?usp=sharing)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCPBtm-c6g5vLKqFJGOGc6NQ)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/cse_shahriar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/user3639Lh/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/10irAJbudZMd_Zq8BS8ipSnOSSO-NFrld/view?usp=sharing)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/UCPBtm-c6g5vLKqFJGOGc6NQ)
+
 
 [cseshahriar]: https://github.com/cseshahriar
 [website]: https://github.com/cseshahriar
