@@ -21,7 +21,7 @@ Senior Python & Django Developer with strong expertise in building secure, scala
 ## 💼 Experience
 Software Engineer  
 Tiger Park Ltd  
-March 2019 – Present (5 Years 10 Months)  
+March 2019 – January, 2026 (5 Years 10 Months)  
 
 - 5+ years of professional experience in backend and full-stack web development
 - Built, deployed, and maintained real-world production systems using Python, Django, and Django REST Framework (DRF)
