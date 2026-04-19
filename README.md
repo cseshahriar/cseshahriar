@@ -33,7 +33,7 @@ March 2019 – January, 2026 (5 Years 10 Months)
 - Maintained clean, scalable, and maintainable codebases following best practices
 
 ## 🎓 Education & Training
-- B.Sc. in Computer Science & Engineering (CSE) Manarat International University, Bangladesh 🇧🇩
+- B.Sc. in Computer Science & Engineering (CSE) Manarat International University, CGPA 3.33
 - DSA & Problem Solving Training – Phitron (Batch 5)
 - Full Stack Web Development (Python, Django & React) – Ostad (Batch 2)
 - Frontend Excellence (React & Tailwind CSS) – Ostad (Batch 4)
