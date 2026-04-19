@@ -1,10 +1,10 @@
 ### 👋 Hi, I'm Md Shahriar Hosen
 
-Senior Python & Django Developer | DRF API Expert | AWS & Linux Deployment | CI/CD with GitHub Actions
+Python & Django Developer | DRF API Expert | AWS & Linux Deployment | CI/CD with GitHub Actions
 I am a Full-Stack Web Developer with over 5 years of professional experience in building, deploying, and maintaining production-ready web applications. I specialize in backend-heavy systems with Django and DRF, while also having solid frontend experience.
 
 ## 💼 Professional Summary
-Senior Python & Django Developer with strong expertise in building secure, scalable, and production-grade backend applications. Experienced in designing and developing RESTful APIs using Django Rest Framework (DRF), implementing authentication, authorization, and role-based access control. Proficient in database design and optimization using PostgreSQL and MySQL, integrating third-party APIs, and managing source code with Git. Hands-on experience deploying applications on Linux servers using Nginx, uWSGI, and Gunicorn, as well as managing cloud infrastructure on AWS. Skilled in setting up CI/CD pipelines using GitHub Actions to automate testing, build, and deployment workflows. Strong problem solver with proven ability to debug production issues, optimize performance, and maintain clean, scalable, and maintainable codebases.
+Python & Django Developer with strong expertise in building secure, scalable, and production-grade backend applications. Experienced in designing and developing RESTful APIs using Django Rest Framework (DRF), implementing authentication, authorization, and role-based access control. Proficient in database design and optimization using PostgreSQL and MySQL, integrating third-party APIs, and managing source code with Git. Hands-on experience deploying applications on Linux servers using Nginx, uWSGI, and Gunicorn, as well as managing cloud infrastructure on AWS. Skilled in setting up CI/CD pipelines using GitHub Actions to automate testing, build, and deployment workflows. Strong problem solver with proven ability to debug production issues, optimize performance, and maintain clean, scalable, and maintainable codebases.
 
 ⚡ Open to Backend / Django / API Developer roles (Remote / Onsite / Contract)
 
