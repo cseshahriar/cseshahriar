@@ -37,7 +37,6 @@ March 2019 – January, 2026
 - DSA & Problem Solving Training – Phitron (Batch 5)
 - Full Stack Web Development (Python, Django & React) – Ostad (Batch 2)
 - Frontend Excellence (React & Tailwind CSS) – Ostad (Batch 4)
-- AI-Ready MERN Stack Web Development Career Path - Interactivecares (Batch 06) - 2026
 
 ## 🧠 Skills Overview
 - Frontend; HTML • CSS • Bootstrap • JavaScript • React(Basic) • Next.js(Basic)
