@@ -37,6 +37,7 @@ March 2019 – January, 2026
 - DSA & Problem Solving Training – Phitron (Batch 5)
 - Full Stack Web Development (Python, Django & React) – Ostad (Batch 2)
 - Frontend Excellence (React & Tailwind CSS) – Ostad (Batch 4)
+- System Design Course : Zero to Intermediate – Amarischool
 
 ## 🧠 Skills Overview
 - Frontend; HTML • CSS • Bootstrap • JavaScript • React(Basic) • Next.js(Basic)
